@@ -1,4 +1,4 @@
-## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Sachin 👨‍🎓
+## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Sejal 👨‍🎓
 
 <!--Header-->
   <div>
@@ -31,7 +31,7 @@
 
 ## About Me ✍
  
- I'm <b> Sachin Kumar</b>, a curious person, Who wants to know every bit of **DevOps** and **Cloud Computing**. I am keen to learn new things every day and passionate about exploring the latest technologies from a learning perspective, and always looking forward to migrating them, To be profitable to the organization and I believe in continuous improvement in myself. I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ I'm <b> Sejal Aggarwal</b>, a curious person, who is keen to learn new things every day and passionate about exploring the latest technologies from a learning perspective, and always looking forward to migrating them and to be profitable to the organization .I believe in continuous improvement in myself. I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I want to develope effective research and analytical skills as well as the ability to meet deadlines under pressure. I am passionate about understanding the core concepts behind different popular Technological Fields. 
 
 
 </div>
